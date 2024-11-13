@@ -4,17 +4,32 @@ import { useTranslation } from 'react-i18next';
 export default function LanguageSwitcher() {
   const { i18n } = useTranslation();
 
-  const toggleLanguage = () => {
-    const newLang = i18n.language === 'en' ? 'es' : 'en';
-    i18n.changeLanguage(newLang);
+  const languages = [
+    { code: 'en', label: 'EN' },
+    { code: 'es', label: 'ES' },
+    // Add more languages here if needed
+  ];
+
+  const changeLanguage = (lng: string) => {
+    i18n.changeLanguage(lng);
   };
 
   return (
-    <button
-      onClick={toggleLanguage}
-      className="fixed top-6 right-24 z-50 px-4 py-1 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white text-sm transition"
-    >
-      {i18n.language.toUpperCase()}
-    </button>
+    <div className="fixed top-6 right-6 z-50 flex space-x-2">
+      {languages.map((lang) => (
+        <button
+          key={lang.code}
+          onClick={() => changeLanguage(lang.code)}
+          className={`px-4 py-1 rounded-full ${
+            i18n.language === lang.code
+              ? 'bg-secondary.dark text-accent-white'
+              : 'bg-white/10 text-white hover:bg-white/20'
+          } backdrop-blur-sm text-sm transition`}
+          aria-label={`Switch to ${lang.label}`}
+        >
+          {lang.label}
+        </button>
+      ))}
+    </div>
   );
 }
