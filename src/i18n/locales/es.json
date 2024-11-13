@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "title": "Creatividad sin límites con calidad cinematográfica",
+    "subtitle": "en tiempo real",
+    "description": "Aunamos tecnología, técnica, creatividad y talento para ofrecerte los últimos avances audiovisuales en producción virtual",
+    "cta": {
+      "showreel": "Ver Showreel",
+      "startProject": "Iniciar Proyecto"
+    }
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes satisfechos",
+    "subtitle": "Ayudamos a equipos de todos los tamaños, en todas las industrias - desde startups ambiciosas hasta empresas establecidas."
+  },
+  "clients": {
+    "title": "Desde startups hasta empresas globales, los constructores ambiciosos eligen los productos de LangChain."
+  },
+  "nav": {
+    "services": "Servicios",
+    "work": "Trabajo",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "getStarted": "Empezar"
+  },
+  "blog": {
+    "title": "Últimas Perspectivas e Historias",
+    "subtitle": "Descubre las últimas tendencias, tecnologías e historias de éxito en producción virtual",
+    "readMore": "Leer Más",
+    "posts": {
+      "virtualProduction": {
+        "title": "El Futuro de la Producción Virtual",
+        "description": "Explora cómo el renderizado en tiempo real está revolucionando la producción de cine y televisión",
+        "category": "Tecnología",
+        "readTime": "5 min de lectura"
+      },
+      "aiInnovation": {
+        "title": "Innovación en IA en Industrias Creativas",
+        "description": "Cómo la inteligencia artificial está transformando los flujos de trabajo creativos y habilitando nuevas posibilidades",
+        "category": "Innovación",
+        "readTime": "7 min de lectura"
+      },
+      "sustainableProduction": {
+        "title": "Métodos de Producción Sostenible",
+        "description": "Implementación de prácticas ecológicas en la producción de medios moderna",
+        "category": "Sostenibilidad",
+        "readTime": "4 min de lectura"
+      }
+    }
+  },
+  "carousel": {
+    "phygital": {
+      "subtitle": "Entornos Phygital",
+      "title": "Escenografía 3D",
+      "description": "Llevamos a la pantalla entornos, elementos y otros activos creados digitalmente que simulan al 100% estar capturados por una cámara real"
+    },
+    "virtual": {
+      "subtitle": "Producción Virtual",
+      "title": "Mundos Inmersivos",
+      "description": "Creamos experiencias virtuales que fusionan la realidad con lo digital, permitiendo interacciones únicas y memorables"
+    },
+    "realtime": {
+      "subtitle": "Tecnología en Tiempo Real",
+      "title": "Renderizado Instantáneo",
+      "description": "Utilizamos las últimas tecnologías para crear contenido visual de alta calidad con resultados inmediatos"
+    }
+  },
+  "showcase": {
+    "slide1": {
+      "topText": "Desarrollamos nuevas fórmulas de comunicación",
+      "middleText": "Realidad Mixta",
+      "bottomText": "con VFX, animación y captura de movimiento en tiempo real"
+    },
+    "slide2": {
+      "topText": "Creamos experiencias inmersivas",
+      "middleText": "Tecnología Virtual",
+      "bottomText": "mediante entornos interactivos y narrativas dinámicas"
+    },
+    "slide3": {
+      "topText": "Innovamos en producción audiovisual",
+      "middleText": "Contenido Digital",
+      "bottomText": "fusionando creatividad y tecnología de última generación"
+    }
+  },
+  "contact": {
+    "title": "Contacta con nosotros",
+    "form": {
+      "name": "NOMBRE:",
+      "phone": "TELÉFONO:",
+      "email": "EMAIL:",
+      "company": "EMPRESA:",
+      "help": "CÓMO TE PODEMOS AYUDAR:",
+      "submit": "ENVIAR",
+      "privacy": {
+        "info": "Información básica en protección de datos.- Conforme al RGPD y la LOPDGDD, MULTIMEDIA RESOURCES SL tratará los datos facilitados, con la finalidad de contestar las dudas y/o quejas planteadas a través del presente formulario y facilitar la información solicitada. Siempre que nos lo autorice previamente, enviaremos información relacionada con [la actividad/ los productos/ los servicios] ofrecidos por MULTIMEDIA RESOURCES SL el [grupo] Podrá ejercer, si lo desea, los derechos de acceso, rectificación, supresión, y demás reconocidos en la normativa mencionada. Para obtener más información acerca de cómo estamos tratando sus datos, acceda a nuestra",
+        "policy": "política de privacidad",
+        "consent1": "ENTIENDO Y ACEPTO EL TRATAMIENTO DE MIS DATOS TAL Y COMO SE DESCRIBE ANTERIORMENTE Y SE EXPLICA CON MAYOR DETALLE EN LA",
+        "consent2": "ENTIENDO Y ACEPTO RECIBIR INFORMACIÓN EN LOS TÉRMINOS ARRIBA INDICADOS SOBRE LOS SERVICIOS DE MULTIMEDIA RESOURCES SL EL [GRUPO]. (SU NEGATIVA A FACILITARNOS LA AUTORIZACIÓN IMPLICARÁ LA IMPOSIBILIDAD DE ENVIARLE INFORMACIÓN COMERCIAL POR PARTE DE LA ENTIDAD)."
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Sobre",
+      "description": "Productora audiovisual de contenidos multimedia especializada en producción virtual en tiempo real y generación de escenografía 3D fotorrealista con calidad cinematográfica.",
+      "subDescription": "Desarrollamos nuevas fórmulas de comunicación para la creación de historias que se adaptan a experiencias no lineales en formatos inmersivos e interactivos."
+    },
+    "rrss": "RRSS",
+    "location": {
+      "title": "Intellycorp",
+      "address": "C/ ISAAC NEWTON, 5. 28760 TRES CANTOS (MADRID)"
+    },
+    "contact": {
+      "phone": "Teléfono"
+    },
+    "rights": "Todos los derechos reservados",
+    "links": {
+      "legal": "Aviso Legal",
+      "privacy": "Política de Privacidad",
+      "cookies": "Política de Cookies",
+      "environmental": "Política Medioambiental"
+    }
+  }
+}

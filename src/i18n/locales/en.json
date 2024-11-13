@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "title": "Unlimited Creativity with Cinematic Quality",
+    "subtitle": "in real time",
+    "description": "We combine technology, technique, creativity and talent to offer you the latest audiovisual advances in virtual production",
+    "cta": {
+      "showreel": "Watch Showreel",
+      "startProject": "Start Project"
+    }
+  },
+  "testimonials": {
+    "title": "Hear from our happy customers",
+    "subtitle": "We help teams of all sizes, across all industries - from ambitious startups to established enterprises."
+  },
+  "clients": {
+    "title": "From startups to global enterprises, ambitious builders choose LangChain products."
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "blog": {
+    "title": "Latest Insights & Stories",
+    "subtitle": "Discover the latest trends, technologies, and success stories in virtual production",
+    "readMore": "Read More",
+    "posts": {
+      "virtualProduction": {
+        "title": "The Future of Virtual Production",
+        "description": "Explore how real-time rendering is revolutionizing film and television production",
+        "category": "Technology",
+        "readTime": "5 min read"
+      },
+      "aiInnovation": {
+        "title": "AI Innovation in Creative Industries",
+        "description": "How artificial intelligence is transforming creative workflows and enabling new possibilities",
+        "category": "Innovation",
+        "readTime": "7 min read"
+      },
+      "sustainableProduction": {
+        "title": "Sustainable Production Methods",
+        "description": "Implementing eco-friendly practices in modern media production",
+        "category": "Sustainability",
+        "readTime": "4 min read"
+      }
+    }
+  },
+  "carousel": {
+    "phygital": {
+      "subtitle": "Phygital Environments",
+      "title": "3D Scenography",
+      "description": "We bring to the screen environments, elements and other digitally created assets that simulate being 100% captured by a real camera"
+    },
+    "virtual": {
+      "subtitle": "Virtual Production",
+      "title": "Immersive Worlds",
+      "description": "We create virtual experiences that merge reality with digital, enabling unique and memorable interactions"
+    },
+    "realtime": {
+      "subtitle": "Real-Time Technology",
+      "title": "Instant Rendering",
+      "description": "We use the latest technologies to create high-quality visual content with immediate results"
+    }
+  },
+  "showcase": {
+    "slide1": {
+      "topText": "We develop new communication formulas",
+      "middleText": "Mixed Reality",
+      "bottomText": "with VFX, animation and real-time motion capture"
+    },
+    "slide2": {
+      "topText": "We create immersive experiences",
+      "middleText": "Virtual Technology",
+      "bottomText": "through interactive environments and dynamic narratives"
+    },
+    "slide3": {
+      "topText": "We innovate in audiovisual production",
+      "middleText": "Digital Content",
+      "bottomText": "merging creativity and cutting-edge technology"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "NAME:",
+      "phone": "PHONE:",
+      "email": "EMAIL:",
+      "company": "COMPANY:",
+      "help": "HOW CAN WE HELP YOU:",
+      "submit": "SUBMIT",
+      "privacy": {
+        "info": "Basic information on data protection.- In accordance with the GDPR and LOPDGDD, MULTIMEDIA RESOURCES SL will process the provided data, in order to answer the doubts and/or complaints raised through this form and provide the requested information. As long as you authorize us beforehand, we will send information related to [the activity/products/services] offered by MULTIMEDIA RESOURCES SL the [group] You may exercise, if you wish, the rights of access, rectification, deletion, and others recognized in the aforementioned regulations. To obtain more information about how we are processing your data, access our",
+        "policy": "privacy policy",
+        "consent1": "I UNDERSTAND AND ACCEPT THE PROCESSING OF MY DATA AS DESCRIBED ABOVE AND EXPLAINED IN MORE DETAIL IN THE",
+        "consent2": "I UNDERSTAND AND ACCEPT TO RECEIVE INFORMATION UNDER THE TERMS INDICATED ABOVE ABOUT THE SERVICES OF MULTIMEDIA RESOURCES SL THE [GROUP]. (YOUR REFUSAL TO PROVIDE US WITH AUTHORIZATION WILL IMPLY THE IMPOSSIBILITY OF SENDING YOU COMMERCIAL INFORMATION FROM THE ENTITY)."
+      }
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About",
+      "description": "Audiovisual multimedia content producer specialized in real-time virtual production and photorealistic 3D scenography generation with cinematic quality.",
+      "subDescription": "We develop new communication formulas for creating stories that adapt to non-linear experiences in immersive and interactive formats."
+    },
+    "rrss": "Social Media",
+    "location": {
+      "title": "Intellycorp",
+      "address": "C/ ISAAC NEWTON, 5. 28760 TRES CANTOS (MADRID)"
+    },
+    "contact": {
+      "phone": "Phone"
+    },
+    "rights": "All rights reserved",
+    "links": {
+      "legal": "Legal Notice",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookies Policy",
+      "environmental": "Environmental Policy"
+    }
+  }
+}
